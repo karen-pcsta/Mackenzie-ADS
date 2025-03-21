@@ -1,2 +1,2 @@
 # Mackenzie-ADS
-Repo for course activities
+Repo for some of the  course activities
